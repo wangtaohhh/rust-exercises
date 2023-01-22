@@ -5,4 +5,6 @@ record some exercises when I am learning rust.
 print a multiplication table
 ## shuixianhua
 find out daffodil numbers in different methods
+## primenumber
+prime number
 
