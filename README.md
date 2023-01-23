@@ -11,3 +11,6 @@ prime number
 print fibonacci sequence 
 ## leapyear
 judge if one year is leap year
+## longeststr
+compare string
+
