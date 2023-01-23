@@ -9,4 +9,5 @@ find out daffodil numbers in different methods
 prime number
 ## Fibonacci
 print fibonacci sequence 
-
+## leapyear
+judge leapyear
