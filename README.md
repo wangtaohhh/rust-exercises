@@ -7,4 +7,6 @@ print a multiplication table
 find out daffodil numbers in different methods
 ## primenumber
 prime number
+## Fibonacci
+print fibonacci sequence 
 
