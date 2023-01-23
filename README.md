@@ -10,4 +10,4 @@ prime number
 ## Fibonacci
 print fibonacci sequence 
 ## leapyear
-judge leapyear
+judge if one year is leap year
